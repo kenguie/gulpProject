@@ -12,10 +12,14 @@
     "del": "^2.2.2",
     "gulp": "^3.9.1",
     "gulp-htmlclean": "^2.7.8",
+    "gulp-imacss": "^1.0.0",
     "gulp-imagemin": "^3.1.1",
+    "gulp-jshint": "^2.0.4",
     "gulp-newer": "^1.3.0",
+    "gulp-pleeease": "^2.0.2",
     "gulp-preprocess": "^2.0.0",
     "gulp-sass": "^3.0.0",
-    "gulp-size": "^2.1.0"
+    "gulp-size": "^2.1.0",
+    "jshint": "^2.9.4"
   }
 }
